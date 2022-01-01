@@ -32,9 +32,9 @@ const customVisitor = schemeDBVisitor(schemeParser)
 
 const client = new ApolloClient({
   uri:
-    'https://k4emdgbstjgufjmo75arzjoxti.appsync-api.us-east-1.amazonaws.com/graphql',
+    '',
   headers: {
-    'x-api-key': 'da2-duqi25zzb5aqrm7wv4lkgun3du',
+    '': '',
   },
 })
 
